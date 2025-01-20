@@ -14,6 +14,14 @@
           <input type="checkbox" id="showAnswerCheckbox" onchange="toggleShowAnswer()">
           <label for="showAnswerCheckbox">Doğru cevabı her zaman göster</label>
         </div>
+        <div class="shuffle-container">
+            <label for="shuffleStart">Başlangıç:</label>
+            <input type="number" id="shuffleStart" min="1">
+            <label for="shuffleEnd">Bitiş:</label>
+            <input type="number" id="shuffleEnd" min="1">
+            <button class="shuffle-btn" onclick="handleShuffle()">Karıştır</button>
+          </div>
+          
         
       </div>
       <div id="question-container" class="question-container">

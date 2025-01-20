@@ -138,15 +138,13 @@ function readAllQuestions() {
     const currentQuestion = questions[currentQuestionIndex];
     const correctChoice =
       currentQuestion.choices[currentQuestion.correctAnswer];
-    const textToRead = `Soru ${currentQuestionIndex + 1}: ${
-      currentQuestion.question
-    }. Doğru cevap: ${correctChoice}.`;
+    const textToRead = `${currentQuestion.question}. Doğru cevap: ${correctChoice}.`;
 
     if ("speechSynthesis" in window) {
       const utterance = new SpeechSynthesisUtterance(textToRead);
 
       // Okuma hızını ayarla (örneğin, 1.5)
-      utterance.rate = 1.5;
+      utterance.rate = 1.7;
 
       // Okuma tamamlandığında bir sonraki soruya geç ve tekrar çağır
       utterance.onend = function () {
@@ -179,6 +177,48 @@ function stopReading() {
   } else {
     console.error("Tarayıcı sesli okuma özelliğini desteklemiyor.");
   }
+}
+
+function shuffleQuestions(startIndex, endIndex) {
+  if (
+    isNaN(startIndex) ||
+    isNaN(endIndex) ||
+    startIndex < 0 ||
+    endIndex >= questions.length ||
+    startIndex > endIndex
+  ) {
+    alert("Geçerli bir aralık giriniz!");
+    return;
+  }
+
+  // Belirtilen aralıktaki soruları alın
+  const rangeQuestions = questions.slice(startIndex, endIndex + 1);
+
+  // Soruları karıştır
+  for (let i = rangeQuestions.length - 1; i > 0; i--) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [rangeQuestions[i], rangeQuestions[j]] = [
+      rangeQuestions[j],
+      rangeQuestions[i],
+    ];
+  }
+
+  // Karışık soruları global `questions` dizisine aktar
+  questions.splice(startIndex, rangeQuestions.length, ...rangeQuestions);
+
+  // İlk soruya geçiş yap ve göster
+  currentQuestionIndex = startIndex;
+  displayQuestion();
+}
+
+function handleShuffle() {
+  const startInput = document.getElementById("shuffleStart");
+  const endInput = document.getElementById("shuffleEnd");
+
+  const startIndex = parseInt(startInput.value, 10) - 1;
+  const endIndex = parseInt(endInput.value, 10) - 1;
+
+  shuffleQuestions(startIndex, endIndex);
 }
 
 function nextQuestion() {
