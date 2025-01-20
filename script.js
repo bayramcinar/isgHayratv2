@@ -1,5 +1,19 @@
 const questions = [];
 let currentQuestionIndex = 0;
+let viewedQuestionsCount = 1;
+
+document.addEventListener("DOMContentLoaded", function () {
+  document.getElementById(
+    "viewedQuestionsCount"
+  ).textContent = `Bakılan soru sayısı: ${viewedQuestionsCount}`;
+});
+
+function updateViewedQuestionsCount() {
+  viewedQuestionsCount++;
+  document.getElementById(
+    "viewedQuestionsCount"
+  ).textContent = `Bakılan soru sayısı: ${viewedQuestionsCount}`;
+}
 
 function loadQuestionsFromFile() {
   const filePath = "isg.txt";
@@ -178,6 +192,8 @@ function readAllQuestions() {
       // Okuma tamamlandığında bir sonraki soruya geç ve tekrar çağır
       utterance.onend = function () {
         currentQuestionIndex++;
+        updateViewedQuestionsCount(); // Sayacı güncelle
+
         if (currentQuestionIndex < questions.length) {
           displayQuestion(); // Yeni soruyu ekranda güncelle
           readAllQuestions(); // Tekrar çağır
@@ -258,19 +274,21 @@ function nextQuestion() {
   currentQuestionIndex++;
   if (currentQuestionIndex < questions.length) {
     displayQuestion();
+    updateViewedQuestionsCount(); // Sayaç güncelleniyor
     document
       .querySelectorAll(".choice")
       .forEach((button) => button.classList.remove("correct", "incorrect"));
   } else {
     alert("Quiz bitti!");
   }
-  toggleShowAnswer(); // Sonraki soruya geçtiğimizde doğru cevabı kontrol et
+  toggleShowAnswer();
 }
 
 function previousQuestion() {
   currentQuestionIndex--;
   if (currentQuestionIndex >= 0) {
     displayQuestion();
+    updateViewedQuestionsCount(); // Sayaç güncelleniyor
     document
       .querySelectorAll(".choice")
       .forEach((button) => button.classList.remove("correct", "incorrect"));
