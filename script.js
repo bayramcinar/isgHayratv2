@@ -123,6 +123,34 @@ function checkAnswer(choiceIndex) {
     choices[choiceIndex].classList.add("incorrect");
   }
 }
+let selectedLanguage = "tr-TR"; // Varsayılan dil Türkçe
+let speechSpeed = 1; // Varsayılan hız
+
+function setLanguage(language) {
+  selectedLanguage = language;
+  console.log(`Dil seçildi: ${selectedLanguage}`);
+}
+
+function setSpeed(speed) {
+  speechSpeed = Math.min(Math.max(speed, 0.5), 3); // Hızı 0.5 ile 3 arasında sınırla
+  console.log(`Hız ayarlandı: ${speechSpeed}`);
+}
+document.getElementById("speedRange").addEventListener("input", function () {
+  const speedValue = document.getElementById("speedValue");
+  speedValue.textContent = this.value;
+});
+
+function readQuestionWithSettings(text) {
+  if ("speechSynthesis" in window) {
+    const utterance = new SpeechSynthesisUtterance(text);
+    utterance.lang = selectedLanguage;
+    utterance.rate = speechSpeed;
+    speechSynthesis.cancel(); // Daha önceki okumayı durdur
+    speechSynthesis.speak(utterance);
+  } else {
+    console.error("Tarayıcı sesli okuma özelliğini desteklemiyor.");
+  }
+}
 
 function speakText(text) {
   if ("speechSynthesis" in window) {
@@ -143,8 +171,9 @@ function readAllQuestions() {
     if ("speechSynthesis" in window) {
       const utterance = new SpeechSynthesisUtterance(textToRead);
 
-      // Okuma hızını ayarla (örneğin, 1.5)
-      utterance.rate = 1.7;
+      // Hız ve dil ayarlarını uygulayın
+      utterance.rate = speechSpeed; // Kullanıcı tarafından belirlenen hız
+      utterance.lang = selectedLanguage; // Kullanıcı tarafından belirlenen dil
 
       // Okuma tamamlandığında bir sonraki soruya geç ve tekrar çağır
       utterance.onend = function () {
@@ -153,9 +182,13 @@ function readAllQuestions() {
           displayQuestion(); // Yeni soruyu ekranda güncelle
           readAllQuestions(); // Tekrar çağır
         } else {
-          const finishMessage = "Tüm sorular tamamlandı!";
+          const finishMessage =
+            selectedLanguage === "tr-TR"
+              ? "Tüm sorular tamamlandı!"
+              : "All questions are completed!";
           const finishUtterance = new SpeechSynthesisUtterance(finishMessage);
-          finishUtterance.rate = 1.5; // Bitirme mesajı için de hızı ayarla
+          finishUtterance.rate = speechSpeed; // Bitirme mesajı için de hızı ayarla
+          finishUtterance.lang = selectedLanguage; // Bitirme mesajı için dili ayarla
           speechSynthesis.speak(finishUtterance);
           alert(finishMessage);
         }

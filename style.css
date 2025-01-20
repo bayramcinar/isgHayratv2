@@ -197,3 +197,24 @@ body {
 .shuffle-btn:hover {
   background-color: #0056b3;
 }
+.speech-settings {
+  margin-top: 15px;
+  display: flex;
+  align-items: center;
+  gap: 10px;
+}
+
+.speech-settings label {
+  font-size: 14px;
+}
+
+.speech-settings select,
+.speech-settings input[type="range"] {
+  padding: 5px;
+  font-size: 14px;
+}
+
+#speedValue {
+  font-weight: bold;
+  margin-left: 5px;
+}
