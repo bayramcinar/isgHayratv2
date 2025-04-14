@@ -284,6 +284,13 @@ function shuffleQuestions(startIndex, endIndex) {
   currentQuestionIndex = startIndex;
   displayQuestion();
 }
+function toggleSettings() {
+  const panel = document.getElementById("settingsPanel");
+  panel.style.display =
+    panel.style.display === "none" || panel.style.display === ""
+      ? "block"
+      : "none";
+}
 
 function handleShuffle() {
   const startInput = document.getElementById("shuffleStart");
