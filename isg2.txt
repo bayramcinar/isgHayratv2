@@ -214,15 +214,13 @@ b. B
 c. D 
 d. A
 a
-536. Magnezyum ve alüminyum gibi maddelerin yangını hangi sınıf yangın grubunda yer 
-alır? 
+536. Magnezyum ve alüminyum gibi maddelerin yangını hangi sınıf yangın grubunda yer alır? 
 a. A 
 b. C 
 c. B 
 d. D
 d
-537. Elektrik ekipmanı ve elektronik cihaz gibi maddelerin yangını hangi sınıf yangın 
-grubunda yer alır? 
+537. Elektrik ekipmanı ve elektronik cihaz gibi maddelerin yangını hangi sınıf yangın grubunda yer alır? 
 a. A 
 b. C 
 c. E 
@@ -300,8 +298,7 @@ b. 1,4
 c. 1,1 
 d. 1,5
 b
-549. Söndürme sistemi olarak sadece, yangın dolapları sistemi mevcut ise, su kapasitesi en 
-az 
+549. Söndürme sistemi olarak sadece, yangın dolapları sistemi mevcut ise, su kapasitesi en az 
 a. 200 
 b. 300 
 c. 100 
@@ -313,8 +310,7 @@ b. 50
 c. 30 
 d. 20
 a
-551. Normal aydınlatmanın kesilmesi halinde en az kaç saat süreyle acil aydınlatma 
-sağlanmalıdır? 
+551. Normal aydınlatmanın kesilmesi halinde en az kaç saat süreyle acil aydınlatma sağlanmalıdır? 
 a. 2 
 b. 1 
 c. 6 
@@ -410,8 +406,7 @@ b. Dolaşım
 c. Solunum 
 d. Havayolu
 a
-567. İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, iş  organizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği veya yeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun 
-şekilde kullanmak zorundadır? 
+567. İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, iş  organizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği veya yeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun şekilde kullanmak zorundadır? 
 a. Makine koruyucuları 
 b. Kişisel koruyucu donanımları 
 c. Güvenlik ve sağlık işaretleri 
@@ -431,8 +426,7 @@ d. Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işa
 a
 570. Aşağıdakilerden hangisi uyarı işaretini tanımlar? 
 a. Acil çıkış yolları, ilkyardım veya kurtarma ile ilgili bilgi veren işaretler 
-b. Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan 
-işaret 
+b. Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bulunan işaret 
 c. Tehlikeye neden olacak veya tehlikeye maruz bırakacak bir davranışı yasaklayan işaret 
 d. Uyulması zorunlu bir davranışı belirleyen işaret
 b
@@ -443,10 +437,8 @@ c. Bir tehlikeye neden olabilecek veya zarar verecek durum hakkında uyarıda bu
 d. Uyulması zorunlu bir davranışı belirleyen işaret
 d
 572. Aşağıdakilerden hangisi işaret levhasını tanımlar? 
-a. Saydam veya yarı saydam malzemeden yapılmış, içeriden veya arkadan aydınlatılarak 
-ışıklı bir yüzey görünümü verilmiş işaret düzeneği 
-b. Bir işaret levhası veya ışıklandırılmış yüzey üzerinde kullanılan ve özel bir durumu veya 
-özel bir davranışı tanımlayan şekil 
+a. Saydam veya yarı saydam malzemeden yapılmış, içeriden veya arkadan aydınlatılarak ışıklı bir yüzey görünümü verilmiş işaret düzeneği 
+b. Bir işaret levhası veya ışıklandırılmış yüzey üzerinde kullanılan ve özel bir durumu veya özel bir davranışı tanımlayan şekil 
 c. Bir işaret levhası ile beraber kullanılan ve ek bilgi sağlayan levha 
 d. Geometrik şekil, resim, sembol, piktogram ve renklerden oluşturulan ve gerektiğinde
 d
@@ -673,13 +665,10 @@ c. Makinaların imalatının tamamlanmasından sonra
 d. Makinaların tasarım ve imalinden önce
 d
 610. Makina Emniyeti Yönetmeliğinin temel sağlık ve güvenlik kurallarında geçen aşağıdakitanımlamalardan hangisi yanlıştır? 
-a. Koruyucu tertibatı: Özellikle fiziksel bir engel vasıtasıyla koruma sağlayan 
-makinanınparçası 
+a. Koruyucu tertibatı: Özellikle fiziksel bir engel vasıtasıyla koruma sağlayan makinanınparçası 
 b. Tehlikeye maruz kalan kişi: Kısmen veya tamamen bir tehlike bölgesinde bulunan kişi 
-c. Tehlike: Muhtemel bir yaralanma veya bunların sağlık üzerinde oluşturabileceği 
-hasarkaynağı 
-d. Risk: Tehlikeli bir durumda meydana gelebilecek olan sağlığa yönelik yaralanma 
-veyahasarın olasılık ve derecesinin birleşimi
+c. Tehlike: Muhtemel bir yaralanma veya bunların sağlık üzerinde oluşturabileceği hasarkaynağı 
+d. Risk: Tehlikeli bir durumda meydana gelebilecek olan sağlığa yönelik yaralanma veyahasarın olasılık ve derecesinin birleşimi
 a
 611. Aşağıdakilerden hangisi mahfazaların ve koruma tertibatlarının temel özelliklerinden birideğildir? 
 a. Üretim işleminin izlenmesine asgari engel olmalı 
@@ -689,49 +678,35 @@ d. Kolayca devreden çıkarılmalı veya kolayca by-pass edilmeli
 d
 612. Makine Emniyeti Yönetmeliğine göre hazırlanması gereken talimatlar konusundaaşağıdakilerden hangisi yanlıştır? 
 a. Bütün makinalarda Türkçe hazırlanmış talimatlar bulunmalıdır. 
-b. Talimatların içeriği yalnızca makinaların amaçlanan kullanımlarını değil aynı 
-zamandamakul bir şekilde öngörülebilen olası yanlış kullanımlarını da içermelidir. 
+b. Talimatların içeriği yalnızca makinaların amaçlanan kullanımlarını değil aynı zamandamakul bir şekilde öngörülebilen olası yanlış kullanımlarını da içermelidir. 
 c. Talimatlar, uzman personelin anlayabileceği topluluk dilinde hazırlanmalıdır 
-d. Profesyonel olmayan operatörler tarafından kullanılması düşünülen makinalar 
-için,kullanım talimatlarının yazılması ve düzenlenmesinde bu tür operatörlerden makul 
-olarakbeklenebilecek genel eğitim seviyeleri ve yargıda bulunabilme düzeyleri de göz 
-önündebulundurulmalıdır.
+d. Profesyonel olmayan operatörler tarafından kullanılması düşünülen makinalar için,kullanım talimatlarının yazılması ve düzenlenmesinde bu tür operatörlerden makul olarakbeklenebilecek genel eğitim seviyeleri ve yargıda bulunabilme düzeyleri de göz önündebulundurulmalıdır.
 c
 613. Makinaların hareketliliği nedeniyle meydana gelebilecek tehlikeleri önlemek amacıylagerekli ilave temel sağlık ve güvenlik kurallarında yer alan "ROPS" anlamı aşağıdakilerdenhangisidir? 
 a. Düşen nesneler veya malzemelere karşı koruyucu yapı 
-b. Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda 
-kullanılmasıgereken koruyucu yapı 
-c. İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması 
-gerekenkoruyucu yapı 
+b. Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda kullanılmasıgereken koruyucu yapı 
+c. İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı 
 d. Yuvarlanma ve devrilmeye karşı koruyucu yapı
 d
 614. Makinaların hareketliliği nedeniyle meydana gelebilecek tehlikeleri önlemek amacıylagerekli ilave temel sağlık ve güvenlik kurallarında yer alan "FOPS"un anlamı aşağıdakilerdenhangisidir? 
 a. Yuvarlanma ve devrilmeye karşı koruyucu yapı 
 b. Düşen nesneler veya malzemelere karşı koruyucu yapı 
-c. İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması 
-gerekenkoruyucu yapı 
-d. Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda 
-kullanılmasıgereken koruyucu yapı
+c. İş parçalarının ve bunların fırlama riskinin bulunduğu durumlarda kullanılması gerekenkoruyucu yapı 
+d. Döner kesici takımların kırılma ve fırlama riskinin bulunduğu durumlarda kullanılmasıgereken koruyucu yapı
 b
-615. Makine Emniyeti Yönetmeliğine göre kaldırma makinaları ve kaldırma aksesuarları,statik deneylerde aşırı yüke, kalıcı bir şekil bozukluğu veya yapısal bir kusur 
-meydanagelmeksizin dayanacak şekilde tasarımlanmalı ve imal edilmelidirler. 
-Hesaplamalarda manuelçalıştırılan makinalar ve kaldırma aksesuarlarında bu katsayının 
-değeri nedir? 
+615. Makine Emniyeti Yönetmeliğine göre kaldırma makinaları ve kaldırma aksesuarları,statik deneylerde aşırı yüke, kalıcı bir şekil bozukluğu veya yapısal bir kusur meydanagelmeksizin dayanacak şekilde tasarımlanmalı ve imal edilmelidirler. Hesaplamalarda manuelçalıştırılan makinalar ve kaldırma aksesuarlarında bu katsayının değeri nedir? 
 a. 1 
 b. 1,5 
 c. 1,25 
 d. 1,1
 b
-616. Makine Emniyeti Yönetmeliğine göre kaldırma makinaları dinamik deney katsayısı ileçarpılmış azami çalışma yükü kullanılarak yapılan dinamik deneylerden, bir arıza 
-meydanagelmeden, geçecek şekilde tasarımlanmalı ve imal dilmelidir. Bu dinamik deney 
-katsayısıaşağıdakilerden hangisidir? 
+616. Makine Emniyeti Yönetmeliğine göre kaldırma makinaları dinamik deney katsayısı ileçarpılmış azami çalışma yükü kullanılarak yapılan dinamik deneylerden, bir arıza meydanagelmeden, geçecek şekilde tasarımlanmalı ve imal dilmelidir. Bu dinamik deney katsayısıaşağıdakilerden hangisidir? 
 a. 1,5 
 b. 1,25 
 c. 1 
 d. 1,1
 d
-617. Makine Emniyeti Yönetmeliğine göre kaldırma zincirleri yeterli bir güvenlik düzeyisağlayacak şekilde seçilmiş bir çalışma katsayısına sahip olmalıdır. Genel bir kural 
-olarak bukatsayı kaçtır? 
+617. Makine Emniyeti Yönetmeliğine göre kaldırma zincirleri yeterli bir güvenlik düzeyisağlayacak şekilde seçilmiş bir çalışma katsayısına sahip olmalıdır. Genel bir kural olarak bukatsayı kaçtır? 
 a. 1 
 b. 3 
 c. 2 
@@ -767,8 +742,7 @@ b. 2
 c. 4 
 d. 8
 a
-623. Makine Emniyeti Yönetmeliğine göre kaldırma işlemlerinde kullanılan halatın bütünü veuçları yeterli bir güvenlik düzeyi sağlayacak şekilde seçilmiş bir çalışma katsayısına 
-sahipolmalıdır. Genel bir kural olarak bu katsayı kaçtır? 
+623. Makine Emniyeti Yönetmeliğine göre kaldırma işlemlerinde kullanılan halatın bütünü veuçları yeterli bir güvenlik düzeyi sağlayacak şekilde seçilmiş bir çalışma katsayısına sahipolmalıdır. Genel bir kural olarak bu katsayı kaçtır? 
 a. 3 
 b. 1 
 c. 7 
@@ -807,8 +781,7 @@ c
 629. aşağıdakilerden hangisi yüksekten düşme riskinin oluş nedenleri arasında yer almaz? 
 a. Seyyar sepetli hidrolik kaldırma aracı ile elektrik direğindeki arızaya müdahale etme 
 b. Ahşap elektrik direği üzerinde ayakçaktan başka kişisel koruyucu kullanmadan çalışma 
-c. Gerekli önlem alınmış ve 7 metre yükseklikte emniyet kemerini uygun bir 
-yeresabitleyerek çalışma 
+c. Gerekli önlem alınmış ve 7 metre yükseklikte emniyet kemerini uygun bir yeresabitleyerek çalışma 
 d. Yüksekten düşme riskine karşı emniyet filesi kullanılarak çalışma
 b
 630. Yükseklik kavramı aşağıdaki cümlelerden hangisi ile tanımlanır? 
@@ -830,13 +803,10 @@ c. İskele sistemleri
 d. İkaz işaretleri
 a
 633. Aşağıdakilerden hangisi kapalı alan tanımı değildir? 
-a. Bazı alanlar iş yapılırken kapalı alan haline gelir, ya da inşaları, üretilişleri veya 
-dahasonra uğradıkları değişiklikler esnasında kapalı alan haline dönüşebilirler. 
+a. Bazı alanlar iş yapılırken kapalı alan haline gelir, ya da inşaları, üretilişleri veya dahasonra uğradıkları değişiklikler esnasında kapalı alan haline dönüşebilirler. 
 b. Kapalı alan girişi-çıkışı olmayan tamamen kapalı bir yerdir. 
-c. Oksijen düzeyinin yetersizliği dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan 
-herkapalı alan bu şekilde adlandırılmaktadır. 
-d. Zararlı maddeler dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan her kapalı 
-alanbu şekilde adlandırılmaktadır.
+c. Oksijen düzeyinin yetersizliği dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan herkapalı alan bu şekilde adlandırılmaktadır. 
+d. Zararlı maddeler dolayısıyla ölüm veya ciddi şekilde yaralanma riski olan her kapalı alanbu şekilde adlandırılmaktadır.
 b
 634. Renksiz, kokusuz, tatsız, yanma ve solunum için kaçınılmaz bir gaz olan oksijeninfizyolojik 
 a. % 19,5-22 
@@ -958,8 +928,7 @@ b. Solunum sisteminde felce neden olabilir.
 c. Maruz kalma limit değeri karbon monoksitin limit değerinden düşüktür. 
 d. % 15'i aşan değerlerde patlayıcıdır.
 b
-654. Aşağıdakilerden hangisi bir atmosferin patlamasına neden olabilecek kritik 
-faktörlerbiridir? 
+654. Aşağıdakilerden hangisi bir atmosferin patlamasına neden olabilecek kritik faktörlerbiridir? 
 a. Oksijen konsantrasyonu 
 b. Toz olup olmaması 
 c. Patlayıcı gaz olup olmaması 
@@ -1071,8 +1040,7 @@ a
 a. Çalışılan yer işi yapmak için yeterli yükseklikte ise 
 b. Sıcaklık, nem veya havalandırma uygun değilse 
 c. Çalışılan yer işi yapmak için yeterli genişlikte ise 
-d. İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını 
-gerektirenseviye farklılıkları yoksa
+d. İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını gerektirenseviye farklılıkları yoksa
 b
 673. Ülkemiz mevzuatında iş kazası hangi kanunda tanımlanmaktadır? 
 a. 5763 sayılı Kanun 
@@ -1081,19 +1049,15 @@ c. 4857 sayılı Kanun
 d. 818 sayılı Kanun
 b
 674. Aşağıdakilerden hangisi SGK mevzuatına göre iş kazası değildir? 
-a. İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen 
-LPGpatlaması sonucu yaralanması 
+a. İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen LPGpatlaması sonucu yaralanması 
 b. İşçinin işe giderken bindiği dolmuşun bir taksi ile çarpışması sonucu yaralanması 
 c. İşçinin fabrika sınırları dışında kamyondan yük boşaltırken düşüp kolunu kırması 
 d. İşçinin işyerinde öğle tatilinde top oynarken düşüp ayağını kırması
 b
 675. Aşağıdakilerden hangisi SGK mevzuatına göre iş kazasıdır? 
-a. İş kazası nedeniyle hastanede tedavi gören işçinin evine giderken bindiği taksinin 
-kazayapması sonucu tekrar yaralanması 
-b. Servis aracından inen işçinin evine gitmek için yolun karşısına geçerken yoldan 
-geçenbaşka bir aracın çarpması sonucu yaralanması 
-c. Yol inşaatında çalışan işçinin yakındaki elma ağacından elma koparırken düşüp ayağını 
-kırması 
+a. İş kazası nedeniyle hastanede tedavi gören işçinin evine giderken bindiği taksinin kazayapması sonucu tekrar yaralanması 
+b. Servis aracından inen işçinin evine gitmek için yolun karşısına geçerken yoldan geçenbaşka bir aracın çarpması sonucu yaralanması 
+c. Yol inşaatında çalışan işçinin yakındaki elma ağacından elma koparırken düşüp ayağını kırması 
 d. İşçinin işyerinde kalp krizi geçirmesi
 d
 676. Aşağıdakilerden hangisi yaralanmanın cinsine göre sınıflandırılan iş kazalarından biridir? 
@@ -1248,8 +1212,7 @@ d. Mesleki kanserler
 b
 702. Ülkemizde meslek hastalıkları listesi hangi mevzuatımızda yer almaktadır? 
 a. Sosyal Sigorta İşlemleri Yönetmeliği 
-b. İşyeri Sağlık ve Güvenlik Birimleri İle Ortak Sağlık ve Güvenlik Birimleri Hakkında 
-Yönetmelik 
+b. İşyeri Sağlık ve Güvenlik Birimleri İle Ortak Sağlık ve Güvenlik Birimleri Hakkında yönetmelik 
 c. İşçi Sağlığı ve İş Güvenliği Tüzüğü 
 d. Sosyal Sigorta Sağlık İşlemleri Tüzüğü
 d
@@ -1283,8 +1246,7 @@ b. İşyerine ait korunma tedbirleri
 c. Tıbbi korunma tedbirleri 
 d. Kimyasallardan korunma tedbirleri
 d
-708. Dünya Sağlık Örgütü tarafından yapılan, "yalnızca bilinen ve kabul edilen meslek hastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma şeklinin, 
-diğer sebepler arasında önemli bir faktör olduğu hastalıklardır" tanımı aşağıdakilerden hangisi ile ilgilidir? 
+708. Dünya Sağlık Örgütü tarafından yapılan, "yalnızca bilinen ve kabul edilen meslek hastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma şeklinin, diğer sebepler arasında önemli bir faktör olduğu hastalıklardır" tanımı aşağıdakilerden hangisi ile ilgilidir? 
 a. Meslek kazaları 
 b. Meslek hastalıkları 
 c. İşle ilgili kazalar 
@@ -1320,8 +1282,7 @@ b. Periyodik makine bakım ve kontrolü
 c. Kayıt ve istatistik 
 d. İlk yardım ve acil müdahale
 b
-714. İşyerinde istenen kayıt ve belgelerden 4857 sayılı İş Kanunun 77. maddesine göre yazılı olarak istenen, ayrıca örneği Bakanlık tarafından belirlenen belge aşağıdakilerden 
-hangisidir? 
+714. İşyerinde istenen kayıt ve belgelerden 4857 sayılı İş Kanunun 77. maddesine göre yazılı olarak istenen, ayrıca örneği Bakanlık tarafından belirlenen belge aşağıdakilerden hangisidir? 
 a. İş kazası bildirimi formu 
 b. Risk değerlendirmesi raporu 
 c. Basınçlı kaplara ait kontrol formları 
@@ -1342,10 +1303,8 @@ c
 717. İş Güvenliği Uzmanlığı Belgesi kaç yıl için geçerlidir? 
 a. He yıl yenileme kurlarına katılmak kaydıyla yedi yıl geçerlidir. 
 b. Süresiz olarak geçerlidir. 
-c. Bir yıl için geçerli olup, her yıl İş Sağlığı Genel Müdürlüğü tarafından vize ettirilmesi 
-gerekir 
-d. Yedi yıl geçerli olup, yedi yıldan sonra yenileme eğitimlerine katılarak İş Sağlığı Genel 
-Müdürlüğünce yeniden vize yapılır.
+c. Bir yıl için geçerli olup, her yıl İş Sağlığı Genel Müdürlüğü tarafından vize ettirilmesi gerekir 
+d. Yedi yıl geçerli olup, yedi yıldan sonra yenileme eğitimlerine katılarak İş Sağlığı Genel Müdürlüğünce yeniden vize yapılır.
 d
 718. Enfraruj ışınlar saçan işlerde çalışan işçilerin özellikle hangi muayeneye tabi tutulması ve belge düzenlenmesi gerekir? 
 a. Göz muayenesine tabi tutulurlar. 
@@ -1414,14 +1373,10 @@ c. Ehliyet
 d. Nüfus cüzdanı 
 d
 729. Aşağıdakilerden hangisi kansorejen madde tanımına uygundur? 
-a. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden 
-olan veya kanser oluşumunu yavaşlatan maddeler 
-b. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden 
-olan veya kanser oluşumunu hızlandıran maddeler 
-c. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik 
-hasarlara yol açmayan maddeler 
-d. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik 
-hasarlara yol açabilen veya bu etkinin oluşumunu hızlandıran maddeler
+a. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden olan veya kanser oluşumunu yavaşlatan maddeler 
+b. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kanser oluşumuna neden olan veya kanser oluşumunu hızlandıran maddeler 
+c. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açmayan maddeler 
+d. Solunduğunda, ağız yoluyla alındığında, deriye nüfuz ettiğinde kalıtımsal genetik hasarlara yol açabilen veya bu etkinin oluşumunu hızlandıran maddeler
 b
 730. Kanserojen ve mutajen maddelere maruziyet riski bulunan işlerde yapılacak risk değerlendirmesinde aşağıdaki kriterlerden hangisi dikkate alınmaz? 
 a. Maruziyet miktarı 
@@ -1436,83 +1391,51 @@ c. 1
 d. 10
 a
 732. Risk değerlendirmesi ile ilgi esaslar arasında aşağıdakilerden hangisi yoktur? 
-a. Risk değerlendirmesi yapılırken kanserojen ve mutajen maddelerle çalışmak 
-istemeyenlerin bu isteklerini dikkate almalıdır. 
-b. Risk değerlendirmesinde kanserojen ve mutajen maddelerin, deri yolu da dahil olmak 
-üzere vücuda giriş yollarının tümü dikkate alınmalıdır. 
-c. İşveren, risk değerlendirmesinde kullanılan bilgileri istenmesi halinde yetkili makamlara 
-vermek zorundadır. 
+a. Risk değerlendirmesi yapılırken kanserojen ve mutajen maddelerle çalışmak istemeyenlerin bu isteklerini dikkate almalıdır. 
+b. Risk değerlendirmesinde kanserojen ve mutajen maddelerin, deri yolu da dahil olmak üzere vücuda giriş yollarının tümü dikkate alınmalıdır. 
+c. İşveren, risk değerlendirmesinde kullanılan bilgileri istenmesi halinde yetkili makamlara vermek zorundadır. 
 d. Risk değerlendirmesi beşli matris yöntemi ile yapılmalı ve her yıl tekrarlanmalıdır.
 d
 733. Kansorejen ve mutajen maddelerin kullanımın azaltılması ile ilgili olarak işverenler aşağıdaki kurallardan hangisine uymakla yükümlüdürler? 
-a. İşveren, kanserojen ve mutajen maddeleri işyeri sınırları dışında özel yapılmış 
-depolardaözel kaplar içinde saklayacaktır. 
-b. İşveren, kanserojen ve mutajen maddeleri aldığı firmaların kalite yönetim sistemine sahip 
-olmalarını isteyecektir. 
-c. İşveren, kanserojen veya mutajen maddelerin değiştirilmesi konusunda yapılan araştırma 
-sonuçlarını, istenmesi halinde herkese vermek zorundadır. 
-d.İşveren, teknik olarak mümkün olduğu hallerde, işçilerin sağlığı ve güvenliği açısından 
-kullanım koşullarında tehlikesiz veya daha az tehlikeli madde, karışım veya proses 
-kullanarak işyerindeki kanserojen veya mutajen maddelerin kullanımını azaltacaktır.
+a. İşveren, kanserojen ve mutajen maddeleri işyeri sınırları dışında özel yapılmış depolardaözel kaplar içinde saklayacaktır. 
+b. İşveren, kanserojen ve mutajen maddeleri aldığı firmaların kalite yönetim sistemine sahip olmalarını isteyecektir. 
+c. İşveren, kanserojen veya mutajen maddelerin değiştirilmesi konusunda yapılan araştırma sonuçlarını, istenmesi halinde herkese vermek zorundadır. 
+d.İşveren, teknik olarak mümkün olduğu hallerde, işçilerin sağlığı ve güvenliği açısından kullanım koşullarında tehlikesiz veya daha az tehlikeli madde, karışım veya proses kullanarak işyerindeki kanserojen veya mutajen maddelerin kullanımını azaltacaktır.
 d
 734. Kanserojen veya mutajen maddelerle yapılan çalışmalarda maruziyetin önlenmesi veazaltılması için işveren aşağıdakilerden hangisini yapmak zorunda değildir? 
-a. Kapalı sistemle çalışmanın teknik olarak mümkün olmadığı hallerde çalışanların 
-maruziyeti mümkün olan en az düzeye indirilecektir. 
-b. Çalışanların kanserojen veya mutajen maddelere maruziyeti, Yönetmelik ekinde verilen 
-sınır değerleri aşmayacaktır. 
-c. Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk 
-bulunduğunun ortaya çıkması halinde çalışanların tehlikeli maddelere maruziyeti 
-önlenecektir. 
-d. İşveren, kanserojen ve mutajen maddelere maruziyeti azaltmak için bu maddelerin 
-kullanımını işyerinde uygun araçlarla yasaklayacaktır.
+a. Kapalı sistemle çalışmanın teknik olarak mümkün olmadığı hallerde çalışanların maruziyeti mümkün olan en az düzeye indirilecektir. 
+b. Çalışanların kanserojen veya mutajen maddelere maruziyeti, Yönetmelik ekinde verilen sınır değerleri aşmayacaktır. 
+c. Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğunun ortaya çıkması halinde çalışanların tehlikeli maddelere maruziyeti önlenecektir. 
+d. İşveren, kanserojen ve mutajen maddelere maruziyeti azaltmak için bu maddelerin kullanımını işyerinde uygun araçlarla yasaklayacaktır.
 d
 735. İşveren kanserojen veya mutajen maddelerin kullanıldığı işlerde aşağıdaki önlemlerden hangisini alacaktır?
-a. İşyerinde kullanılacak kanserojen veya mutajen madde miktarı belirlenecek ve yapılan iş 
-için gereken miktardan fazla madde bulundurulacaktır. 
-b. Kanserojen veya mutajen maddelerin kaynağından lokal veya genel havalandırma sistemi 
-veya diğer yöntemlerle çalışılan ortamdan dışarı atılması, halk sağlığı ve çevreye zarar 
-verecek şekilde yapılacaktır. 
-c. Kanserojen veya mutajen maddelere maruz kalan veya kalabilecek işçi sayısı mümkün 
-olan en çok sayıda olacaktır. 
-d. Kanserojen veya mutajen maddelerin çalışma ortamına yayılmasını önlemek veya en aza 
-indirmek için proses tasarımı uygun şekilde yapılacak ve gerekli mühendislik kontrol 
-önlemleri alınacaktır.
+a. İşyerinde kullanılacak kanserojen veya mutajen madde miktarı belirlenecek ve yapılan iş için gereken miktardan fazla madde bulundurulacaktır. 
+b. Kanserojen veya mutajen maddelerin kaynağından lokal veya genel havalandırma sistemi veya diğer yöntemlerle çalışılan ortamdan dışarı atılması, halk sağlığı ve çevreye zarar verecek şekilde yapılacaktır. 
+c. Kanserojen veya mutajen maddelere maruz kalan veya kalabilecek işçi sayısı mümkün olan en çok sayıda olacaktır. 
+d. Kanserojen veya mutajen maddelerin çalışma ortamına yayılmasını önlemek veya en aza indirmek için proses tasarımı uygun şekilde yapılacak ve gerekli mühendislik kontrol önlemleri alınacaktır.
 d
 736. İşverenin kanserojen veya mutajen maddelerin kullanıldığı işlerde aşağıdaki önlemlerden hangisini alması doğru değildir? 
-a. Herhangi bir kaza sonucunda veya beklenmeyen bir şekilde kanserojen veya mutajen 
-maddelerin ortama yayılması halinde, bu durumun erken tespiti için uygun ölçüm 
-sistemleri bulunacaktır. 
+a. Herhangi bir kaza sonucunda veya beklenmeyen bir şekilde kanserojen veya mutajen maddelerin ortama yayılması halinde, bu durumun erken tespiti için uygun ölçüm sistemleri bulunacaktır. 
 b. Uygun çalışma yöntemleri ve işlemler kullanılacaktır. 
-c. Kanserojen ve mutajen maddelerle çalışan işçilere öncelikle uygun ve CE işaretli kişisel 
-koruyucu donanımlar verecektir. 
-d. Özellikle işyeri tabanı, duvarlar ve diğer yüzeyler düzenli olarak temizlenecek ve hijyen 
-şartları sağlanacaktır.
+c. Kanserojen ve mutajen maddelerle çalışan işçilere öncelikle uygun ve CE işaretli kişisel koruyucu donanımlar verecektir. 
+d. Özellikle işyeri tabanı, duvarlar ve diğer yüzeyler düzenli olarak temizlenecek ve hijyen şartları sağlanacaktır.
 c
-737. Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğu saptanan işlerde, Bakanlıkça istendiğinde, işveren aşağıdaki konulardan 
-hangisinde yeterli bilgileri vermek zorunda değildir? 
-a. İşyerinde kanserojen veya mutajen maddeleri kullanıldığı prosesler ve/veya işlemler ile 
-bu maddelerin kullanılma nedeni 
+737. Yapılan risk değerlendirmesi sonucunda çalışanların sağlığı ve güvenliği yönünden risk bulunduğu saptanan işlerde, Bakanlıkça istendiğinde, işveren aşağıdaki konulardan hangisinde yeterli bilgileri vermek zorunda değildir? 
+a. İşyerinde kanserojen veya mutajen maddeleri kullanıldığı prosesler ve/veya işlemler ile bu maddelerin kullanılma nedeni 
 b. İkame yapılıp yapılamadığı 
-c. Kanserojen veya mutajen maddeler ve preparatları ile bunları içeren maddelerin 
-işyerinde üretilen ve kullanılan miktarı 
+c. Kanserojen veya mutajen maddeler ve preparatları ile bunları içeren maddelerin işyerinde üretilen ve kullanılan miktarı 
 d. Kullanılan kansorejenmutajen maddelerin malzeme güvenlik bilgi formları 
 d
 738. Çalışanların yüksek düzeyde maruziyetine neden olabilecek beklenmedik bir olay veya kaza halinde aşağıdakilerden hangisi yapılmayacaktır? 
-a. Koruyucu araç ve gereci bulunmayan işçilerin etkilenmiş alanda çalışmasına izin 
-verilecektir. 
-b. Etkilenmiş alana girecek kişilerin koruyucu giyim eşyası ve solunum cihazı kullanmaları 
-sağlanacaktır. Her bir işçi etkilenmiş alanda mümkün olduğunca kısa süreli çalıştırılacak ve 
-bu durum süreklilik arz etmeyecektir. 
+a. Koruyucu araç ve gereci bulunmayan işçilerin etkilenmiş alanda çalışmasına izin verilecektir. 
+b. Etkilenmiş alana girecek kişilerin koruyucu giyim eşyası ve solunum cihazı kullanmaları sağlanacaktır. Her bir işçi etkilenmiş alanda mümkün olduğunca kısa süreli çalıştırılacak ve bu durum süreklilik arz etmeyecektir. 
 c. İşveren, çalışanlara durum hakkında derhal bilgi verecektir. 
-d. Etkilenmiş alana, sadece onarım ve diğer zorunlu işleri yapacak kişilerin girmesine izin 
-verilecektir.
+d. Etkilenmiş alana, sadece onarım ve diğer zorunlu işleri yapacak kişilerin girmesine izin verilecektir.
 a
 739. İşveren, kanserojen ve mutajen maddelerle kirlenme olasılığı bulunan işlerde aşağıdaki önlemlerden hangisini alacaktır? 
 a. İşçiler uygun ve yeterli yıkanma yeri, tuvalet ve temizlik malzemesi bulunduracaktır. 
-b. Kanserojen ve mutajen maddelerle kirlenme olasılığı bulunan yerlerde çalışanların sigara 
-içmeleri, yemeleri ve içmeleri sağlanacaktır. 
-c. Çalışanlara, işe özel koruyucu giyim eşyası verilecek ve kendi elbiseleri ile koruyucu giyim 
-eşyalarının ayrı yerlerde saklanması için her çalışana bir elbise dolabı verilecektir. 
+b. Kanserojen ve mutajen maddelerle kirlenme olasılığı bulunan yerlerde çalışanların sigara içmeleri, yemeleri ve içmeleri sağlanacaktır. 
+c. Çalışanlara, işe özel koruyucu giyim eşyası verilecek ve kendi elbiseleri ile koruyucu giyim eşyalarının ayrı yerlerde saklanması için her çalışana bir elbise dolabı verilecektir. 
 d. Koruyucu araç ve gereçler özel yerlerde ve uygun şartlarda saklanacaktır.
 d
 740. Kansorejen ve mutajen maddelerle çalışan işçilere verilecek bilgi ve talimatlar arasında öncelikle aşağıdakilerden hangisi yoktur? 
@@ -1524,22 +1447,14 @@ c
 741. İşveren, işçilerin özellikle aşağıda belirtilen hangi konuda bilgi almalarını sağlayacaktır? 
 a. OHSAS 18001 iş sağlığı ve güvenliği yönetim sistemi 
 b. Kullanılan kansorejen ve mutajen maddelerin fiyatları 
-c. İşverenin koruyucu giyim eşyası ve koruyucu ekipmanın etkinliğini belirleme 
-sorumluluğu saklı kalmak kaydıyla, koruyucu giyim eşyası ve ekipmanın seçimi, giyilmesi ve 
-kullanılmasının çalışanların sağlık ve güvenliği yönünden etkilerinin belirlenmesi 
+c. İşverenin koruyucu giyim eşyası ve koruyucu ekipmanın etkinliğini belirleme sorumluluğu saklı kalmak kaydıyla, koruyucu giyim eşyası ve ekipmanın seçimi, giyilmesi ve kullanılmasının çalışanların sağlık ve güvenliği yönünden etkilerinin belirlenmesi 
 d. ISO 9001 kalite yönetim sistemi
 c
 742. İşçilerin sağlık gözetimine tabi tutulmasında aşağıdakilerden hangisi gözetilmez? 
-a. Yapılan risk değerlendirmesine göre sağlık ve güvenlik yönünden risk bulunan işlerde 
-çalışanların, sağlık durumlarının gözetim altında tutulması için işyerinde gerekli 
-düzenlemeleri yapacaktır. 
-b. Çalışanlardan birinde kanserojen veya mutajen maddelere maruziyet nedeniyle oluştuğu 
-şüphesi bulunan bir sağlık sorunu görüldüğünde, aynı şekilde maruz kalan diğer kişiler de 
-sağlık gözetiminden geçirileceklerdir. 
-c. Çalışanlara, sadece maruziyet sırasında yapılması gerekli sağlık gözetimi hakkında bilgi 
-verilecektir. 
-d. Sağlık gözetimi, maruziyet başlamadan önce yapılacak ve daha sonra da düzenli 
-aralıklarla sürdürülecektir.
+a. Yapılan risk değerlendirmesine göre sağlık ve güvenlik yönünden risk bulunan işlerde çalışanların, sağlık durumlarının gözetim altında tutulması için işyerinde gerekli düzenlemeleri yapacaktır. 
+b. Çalışanlardan birinde kanserojen veya mutajen maddelere maruziyet nedeniyle oluştuğu şüphesi bulunan bir sağlık sorunu görüldüğünde, aynı şekilde maruz kalan diğer kişiler de sağlık gözetiminden geçirileceklerdir. 
+c. Çalışanlara, sadece maruziyet sırasında yapılması gerekli sağlık gözetimi hakkında bilgi verilecektir. 
+d. Sağlık gözetimi, maruziyet başlamadan önce yapılacak ve daha sonra da düzenli aralıklarla sürdürülecektir.
 c
 743. Kanserojen veya mutajen maddelere maruziyet sonucu ortaya çıkan meslek hastalıkları hangi kuruluşa bildirilecektir? 
 a. Çalışma ve Sosyal Güvenlik Bakanlığı 
@@ -1547,8 +1462,7 @@ b. Sağlık Bakanlığı
 c. Meslek Hastalıkları Hastanesi 
 d. Çevre ve Orman Bakanlığı
 a
-744. Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliği yönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların 
-maruziyet durumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ile saklanacaktır? 
+744. Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliği yönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların maruziyet durumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ile saklanacaktır? 
 a. 50 
 b. 10 
 c. 40 
@@ -1561,8 +1475,7 @@ c. İçişleri Bakanlığı
 d. Sanayi ve Ticaret Bakanlığı
 a
 746. Aşağıdakilerden hangisi sanayiden sayılan işlerden biridir? 
-a. Ham, yarı ve tam yapılmış her tür bitkisel, hayvansal veya endüstriyel ürün ve malların 
-alım ve satım işleri 
+a. Ham, yarı ve tam yapılmış her tür bitkisel, hayvansal veya endüstriyel ürün ve malların alım ve satım işleri 
 b. Depoculuk, ambarcılık, antrepoculuk ve benzeri işler 
 c. Otel, pansiyon, kamp, yurt ve misafirhane gibi konaklama tesislerinde yapılan işler 
 d. Petrol ve doğal gaz arama işleri
@@ -1580,10 +1493,8 @@ c. Çöp ve kanalizasyon hizmetleri işleri
 d. Mücevherat ve kuyumculuk imalat işleri
 a
 749. Aşağıdakilerden hangisi tarım ve orman işlerinden sayılan işlerden biridir? 
-a. Suların toplanma, tasfiye, tevzii, arıtım ve su şebekelerinin işletilmesi ve aynı işletme 
-tarafından yapılan bakım ve tamir işleri 
-b. Her türlü iş ve gelir hayvanlarının yetiştirilmesi, üretimi, ıslahı ve bunlarla ilgili bakım, 
-güdüm, terbiye, kırkım, sağım ve ürünlerinin elde edilmesi 
+a. Suların toplanma, tasfiye, tevzii, arıtım ve su şebekelerinin işletilmesi ve aynı işletme tarafından yapılan bakım ve tamir işleri 
+b. Her türlü iş ve gelir hayvanlarının yetiştirilmesi, üretimi, ıslahı ve bunlarla ilgili bakım, güdüm, terbiye, kırkım, sağım ve ürünlerinin elde edilmesi 
 c. Karada, göl ve akarsularda insan veya eşya ve hayvan taşıma işleri 
 d. Zirai mücadele ilaç bayiliği işleri
 b
@@ -1596,19 +1507,14 @@ b
 751. Yeterli koruma önlemleri alındığında her yaştaki kadın işçiler aşağıdaki işlerden hangisinde çalıştırılabilirler? 
 a. Buhar, gaz ve sair muharrik kuvvet üretimiyle ilgili işlerde 
 b. Kimyasal gübrelerin üretimi ve depolanması işlerinde 
-c. Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan 
-işlerde 
+c. Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde 
 d. Piroteknik malzemesi hazırlama ve imali işlerinde
 c
 752. Aşağıdaki cümlelerden hangisi doğru bir önermedir? 
-a. Kadın ve genç işçiler bünyelerine uygun olmayan işlerde, sağlık muayenesinden 
-geçirilerek çalıştırılmasına müsaade edilir. 
-b. Çıraklar ve stajyerler kendilerinden sorumlu usta veya formen gözetiminde çalıştırılması 
-zorunludur. 
-c. Genç ve sağlıklı erkek işçilerin işe girişinde sağlık muayenesinden geçmeleri zorunlu 
-değildir. 
-d. 14 yaşından küçük çocuk işçilerin işe girişlerinde hekim kontrolünden geçirilerek sağlıklı 
-olduklarının belirlenmesi gerekir.
+a. Kadın ve genç işçiler bünyelerine uygun olmayan işlerde, sağlık muayenesinden geçirilerek çalıştırılmasına müsaade edilir. 
+b. Çıraklar ve stajyerler kendilerinden sorumlu usta veya formen gözetiminde çalıştırılması zorunludur. 
+c. Genç ve sağlıklı erkek işçilerin işe girişinde sağlık muayenesinden geçmeleri zorunlu değildir. 
+d. 14 yaşından küçük çocuk işçilerin işe girişlerinde hekim kontrolünden geçirilerek sağlıklı olduklarının belirlenmesi gerekir.
 b
 753. Risk gruplarından yaşlılar tanımına hangi yaşın üstündekiler girer? 
 a. 30 yaşından daha yaşlı olanlar 
@@ -1623,14 +1529,10 @@ c. % 5
 d. % 3
 d
 755. Aşağıdaki çalışmalardan hangisi gece çalışması sayılır? 
-a. Saat 16:00'da başlayıp, saat 19:00 ile 20:00 arasında yemek ve dinlenme arası verilen ve 
-22:30?a kadar süren çalışmalar 
-b. Saat 11:00'de başlayıp, saat 15:00 ile 16:00 arasında yemek molası verilen ve saat 
-20:00?ye kadar süren çalışmalar 
-c. Saat 18:00'de başlayıp, saat 20:00 ile 21:00 arası yemek ve dinlenme arası verilen ve saat 
-24:00?e kadar süren çalışmalar 
-d. Saat 02:30'de başlayıp, saat 06:00 ile 07:00 arası yemek ve dinlenme arası verilen ve saat 
-11:00?e kadar süren çalışmalar 
+a. Saat 16:00'da başlayıp, saat 19:00 ile 20:00 arasında yemek ve dinlenme arası verilen ve 22:30?a kadar süren çalışmalar 
+b. Saat 11:00'de başlayıp, saat 15:00 ile 16:00 arasında yemek molası verilen ve saat 20:00?ye kadar süren çalışmalar 
+c. Saat 18:00'de başlayıp, saat 20:00 ile 21:00 arası yemek ve dinlenme arası verilen ve saat 24:00?e kadar süren çalışmalar 
+d. Saat 02:30'de başlayıp, saat 06:00 ile 07:00 arası yemek ve dinlenme arası verilen ve saat 11:00?e kadar süren çalışmalar 
 c
 756. Gece çalışmalarında görev yapan işçilerin sağlık muayeneleri en az kaç yılda bir yapılmak zorundadır? 
 a. Yılda en az iki defa 
@@ -1645,14 +1547,10 @@ c. 7,5 saat
 d. 8,5 saat
 c
 758. İş Kanununa göre çalışma hayatında "gece" tanımı saat kaçta başlayıp saat kaça kadar süren ve en fazla kaç saat süren bir dönemdir? 
-a. En erken saat 21.00'de başlayarak en geç saat 05.00'e kadar geçen ve her halde en fazla 
-dokuz saat süren dönemdir. 
-b. En erken saat 20.00'de başlayarak en geç saat 06.00'ya kadar geçen ve her halde en fazla 
-on saat süren dönemdir. 
-c. En geç saat 18.00'de başlayarak en erken saat 07.00'ye kadar geçen ve her halde en fazla 
-on iki saat süren dönemdir. 
-d. En geç saat 20.00?de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla 
-on bir saat süren dönemdir.
+a. En erken saat 21.00'de başlayarak en geç saat 05.00'e kadar geçen ve her halde en fazla dokuz saat süren dönemdir. 
+b. En erken saat 20.00'de başlayarak en geç saat 06.00'ya kadar geçen ve her halde en fazla on saat süren dönemdir. 
+c. En geç saat 18.00'de başlayarak en erken saat 07.00'ye kadar geçen ve her halde en fazla on iki saat süren dönemdir. 
+d. En geç saat 20.00?de başlayarak en erken saat 06.00'ya kadar geçen ve her halde en fazla on bir saat süren dönemdir.
 d
 759. İş Kanununa göre gece postaları, durmaksızın birbiri ardına postalar halinde işçi çalıştırılarak yürütülen işlerde 24 saatlik süre içinde en az kaç posta çalıştırılacak şekilde düzenlenir? 
 a. En az iki posta çalıştırılacak şekilde düzenlenir. 
@@ -1685,8 +1583,7 @@ c. Kamp alanı, mümkün olduğunca geniş tutulmalıdır.
 d. Kamp alanı, içinde araç kullanımı mümkün olduğunca çok olacak şekilde planlanmalıdır.
 b
 764. 100 kişinin çalıştığı yerleşim yerlerinden uzak açık alanlarda yapılan çalışmalarda aşağıda belirtilen hususlardan hangisi mevzuat hükümlerine uygundur? 
-a. Her 30 erkek işçi için bir kabin ve pisuar, her 25 kadın işçi için de en az bir tuvalet 
-kabininin yapılması 
+a. Her 30 erkek işçi için bir kabin ve pisuar, her 25 kadın işçi için de en az bir tuvalet kabininin yapılması 
 b. Her 50 erkek ve her 50 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması 
 c. Her 20 erkek ve her 20 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması 
 d. Her 40 erkek ve her 40 kadın işçi için bir adet olmak üzere tuvalet kabinlerinin yapılması
@@ -1724,8 +1621,7 @@ a
 770. Yeterli koruma önlemleri alındığında her yaştaki kadın işçiler aşağıdaki işlerden hangisinde çalıştırılabilirler? 
 a. Piroteknik malzemesi hazırlama ve imali işlerinde 
 b. Buhar, gaz ve sair muharrik kuvvet üretimiyle ilgili işlerde 
-c. Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan 
-işlerde 
+c. Muharrik kuvvetle işleyen tam otomatik soğuk şekillendirme tezgahlarında yapılan işlerde 
 d. Kimyasal gübrelerin üretimi ve depolanması işlerinde
 c
 771. İş sağlığı ve güvenliği kurulu kurulması için işçi sayısının tespit edilmesindeaşağıdakilerden hangisi esas alınır? 
@@ -1754,8 +1650,7 @@ d. Ramazzini
 b
 775. Aşağıdakilerden hangisi elektrikle çalışmalarda alınacak genel güvenlik önlemleriarasındadır? 
 a. Elektrik devresi üzerinde 30 mA değerinde kaçak akım rölesi kullanmak 
-b. Yüksek gerilimli çıplak iletkenlerin bulunduğu mahalde topraklaması yapılmış 
-metalçubuklarla çalışmak 
+b. Yüksek gerilimli çıplak iletkenlerin bulunduğu mahalde topraklaması yapılmış metalçubuklarla çalışmak 
 c. Elektrik devresi üzerinde uygun nitelikte diyot kullanmak 
 d. Elektrik devresi üzerinde 16 A değerinde sigorta kullanmak
 a
@@ -1838,8 +1733,7 @@ c. Eğitimler işçilere mali yük getirmemelidir.
 d. Eğitimler dinlenme süreleri dışında düzenlenir.
 a
 789. Elektriğin tanımı aşağıdakilerden hangisidir? 
-a. Bir madde atomundaki elektronların, kendi atom çekirdeği etrafındaki hareketine 
-elektrikdenir. 
+a. Bir madde atomundaki elektronların, kendi atom çekirdeği etrafındaki hareketine elektrikdenir. 
 b. Durağan veya devingen yüklü parçacıkların yol açtığı fiziksel bir olgudur. 
 c. Ses dalgasının metaller içerisinde yayılmasına elektrik denir. 
 d. Sabit bir mıknatısın metalleri çekmesine elektrik denir.
@@ -1876,8 +1770,7 @@ d. Gürültünün kaynağında kesilmesi
 c
 795. Aşağıda belirtilen özelliklere sahip çalışma ortamlarından hangisi sırt incinmesi riskiniarttırabilir? 
 a. Çalışılan yer işi yapmak için yeterli yükseklikte ise 
-b. İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını 
-gerektirenseviye farklılıkları yoksa 
+b. İşyeri tabanında veya çalışılan zeminlerde yüklerin indirilip kaldırılmasını gerektirenseviye farklılıkları yoksa 
 c. Sıcaklık, nem veya havalandırma uygun değilse 
 d. Çalışılan yer işi yapmak için yeterli genişlikte ise
 c
@@ -2106,12 +1999,10 @@ a
 833. Aşağıdakilerden hangisi SGK mevzuatına göre iş kazası değildir? 
 a. İşçinin fabrika sınırları dışında kamyondan yük boşaltırken düşüp kolunu kırması 
 b. İşçinin işyerinde öğle tatilinde top oynarken düşüp ayağını kırması 
-c. İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen 
-LPGpatlaması sonucu yaralanması 
+c. İşçinin görev ile gittiği yerde mesai bittikten sonra yemek yerken meydana gelen LPGpatlaması sonucu yaralanması 
 d. İşçinin işe giderken bindiği dolmuşun bir taksi ile çarpışması sonucu yaralanması
 d
-834. İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, işorganizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği 
-veyayeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun şekildekullanmak zorundadır? 
+834. İşveren işyerinde yapılan risk değerlendirmesi sonuçlarına göre; çalışma yöntemleri, işorganizasyonu ve toplu korunma önlemleriyle işyerindeki risklerin giderilemediği veyayeterince azaltılamadığı durumlarda, aşağıdakilerden hangisini bulundurmak ve uygun şekildekullanmak zorundadır? 
 a. Güvenlik ve sağlık işaretleri 
 b. Makine koruyucuları 
 c. Kişisel koruyucu donanımları 
@@ -2169,8 +2060,7 @@ a
 a. İş sağlığı ve güvenliği kurulunun kurulması zorunlu değildir. 
 b. Her işyerinden bir temsilcinin katılımı ile iş sağlığı ve güvenliği kurulur. 
 c. Toplam işçi sayısı esas alınarak iş sağlığı ve güvenliği kurulu kurulur. 
-d. Elliden fazla işçi çalıştıran her bir işyerinde ayrı ayrı birer iş sağlığı ve güvenliği 
-kurulukurulur.
+d. Elliden fazla işçi çalıştıran her bir işyerinde ayrı ayrı birer iş sağlığı ve güvenliği kurulukurulur.
 d
 844. Aşağıdaki yargı kararlarından hangisi kanun seviyesinde bağlayıcıdır? 
 a. Danıştay Dairesi Kararı 
@@ -2232,15 +2122,13 @@ b. Emniyet kemeri kullanılması
 c. Korkuluk olması 
 d. Güvenlik ağı kurulması
 a
-854. Dünya Sağlık Örgütü tarafından yapılan, "yalnızca bilinen ve kabul edilen meslekhastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma 
-şeklinin, diğersebepler arasında önemli bir faktör olduğu hastalıklardır" tanımı aşağıdakilerden hangisi ileilgilidir? 
+854. Dünya Sağlık Örgütü tarafından yapılan, "yalnızca bilinen ve kabul edilen meslekhastalıkları değil, fakat oluşmasında ve gelişmesinde çalışma ortamı ve çalışma şeklinin, diğersebepler arasında önemli bir faktör olduğu hastalıklardır" tanımı aşağıdakilerden hangisi ileilgilidir? 
 a. İşle ilgili kazalar 
 b. Meslek hastalıkları 
 c. İşle ilgili hastalıklar 
 d. Meslek kazaları
 c
-855. Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliğiyönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların 
-maruziyetdurumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ilesaklanacaktır? 
+855. Sağlık gözetimi kayıtları ile risk değerlendirmesine göre, çalışanların sağlığı ve güvenliğiyönünden riskli olan işlerde çalışanların güncellenmiş listesini ve bunların maruziyetdurumlarını belirten kayıtları maruziyetin sona ermesinden sonra en az kaç yıl süre ilesaklanacaktır? 
 a. 20 
 b. 40 
 c. 50 
@@ -2320,8 +2208,7 @@ d. Sanayi bakanlığı
 c
 868. Aşağıdaki işlerden hangisi iş kanunu kapsamına girer? 
 a. 50 den fazla işçi çalıştırılan tarım ve orman işlerinin yapıldığı işyerleri veya işletmeleri 
-b. 507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin 
-çalıştığıiş yerleri 
+b. 507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin çalıştığıiş yerleri 
 c. Ev hizmetleri 
 d. Deniz ve hava taşıma işleri 
 a
@@ -2337,15 +2224,13 @@ b. Çalışma merkezlerinde kullanılan bilgisayar sistemlerinde
 c. Toplumun kullanımına açık bilgisayar sistemlerinde 
 d. Taşıma araçlarındaki bilgisayar sistemlerinde
 b
-871. Muafiyet sınırları içerisinde olduğu halde izin verilmeyen radyoaktif madde içerenmalzemelerin ithali, ihracı, imali, bulundurulması, kullanılması ve depolanması yasak 
-olanmalzemeler aşağıdakilerden hangisidir? 
+871. Muafiyet sınırları içerisinde olduğu halde izin verilmeyen radyoaktif madde içerenmalzemelerin ithali, ihracı, imali, bulundurulması, kullanılması ve depolanması yasak olanmalzemeler aşağıdakilerden hangisidir? 
 a. Kozmetikler 
 b. Hepsi 
 c. Giysiler 
 d. Kırtasiye malzemeleri
 b
-872. Ekranlı araçlarla çalışmalarda sağlık ve güvenlik önlemleri hakkında yönetmelikyayımladığı tarihte faaliyette olan çalışma merkezlerinin en fazla kaç yıl içinde 
-yönetmelikhükümlerini uygun hale getirilmeleri zorunludur? 
+872. Ekranlı araçlarla çalışmalarda sağlık ve güvenlik önlemleri hakkında yönetmelikyayımladığı tarihte faaliyette olan çalışma merkezlerinin en fazla kaç yıl içinde yönetmelikhükümlerini uygun hale getirilmeleri zorunludur? 
 a. 2 
 b. 1 
 c. 4 
@@ -2363,8 +2248,7 @@ b. Keski başının ve çekiç yüzünün yağlı ve kaygan olmamasına dikkat e
 c. Keski ve çekiç gevşek tutulmalı 
 d. Keski başına oluşacak çapaklar zımpara taşı veya eğe ile temizlenmeli
 c
-875. Üniversitelerin kimya, makine, maden, jeoloji, metalürji, endüstri, elektrik, elektronik,inşaat, fizik, jeofizik, bilgisayar, tekstil, petrol, uçak, gemi, çevre, gıda 
-mühendisliği vemimarlık bölümleri ile ziraat fakültelerinin tarım makineleri bölümünden mezun olanları,aşağıdaki tanımlardan hangisini kapsar? 
+875. Üniversitelerin kimya, makine, maden, jeoloji, metalürji, endüstri, elektrik, elektronik,inşaat, fizik, jeofizik, bilgisayar, tekstil, petrol, uçak, gemi, çevre, gıda mühendisliği vemimarlık bölümleri ile ziraat fakültelerinin tarım makineleri bölümünden mezun olanları,aşağıdaki tanımlardan hangisini kapsar? 
 a. Teknik Eleman 
 b. Mühendis 
 c. Bakanlık 
@@ -2447,10 +2331,6 @@ a. İş Gözlüğü
 b. X-ışını gözlüğü, lazer ışını gözlüğü, ultra-viyole, infrared, görünür radyasyon gözlükleri 
 c. Toz maskesi 
 d. Kulaklık 
-a. P2 
-b. P3 
-c. FFP1 
-d. FFP2
 b
 891. Ekranlı araçlarla çalışanlara verilen eğitimlerden hangisi iş sağlığı ve güvenliğikapsamına girmez? 
 a. Doğru oturma şekilleri 
@@ -2509,8 +2389,7 @@ b
 900. Ayakkabı seçiminde aşağıdakilerden hangisi yapılırsa yanlış olur? 
 a. Her iki ayağa ayakkabı giyilip denerek seçilmeli 
 b. Ayakkabı ayağa tam oturacak fakat sıkmayacak şekilde seçilmeli 
-c. Ayakkabının ön tarafında parmakların rahatça hareket edebileceği yer olacak 
-şekildeseçilmeli 
+c. Ayakkabının ön tarafında parmakların rahatça hareket edebileceği yer olacak şekildeseçilmeli 
 d. Sabah vakitlerinde deneyerek seçilmeli
 d
 901. Vinç ile yük 25-30 cm. kaldırıldıktan sonra aşağıdakilerden hangisi kontrol edilir? 
@@ -2543,15 +2422,13 @@ b. 10
 c. 20 
 d. 5 
 d
-906. İnşaat işleri, özellikle iskeleler ve yerden yüksek çalışma platformların üstünde, altındaveya yakınında yapılan işler, kalıp yapımı ve sökümü, montaj ve kurma işleri, 
-iskeledeçalışma ve yıkım işlerinde, çalışana çarpmasından ve darbelerden koruyan Kişisel KoruyucuDonanım aşağıdakilerden hangisidir? 
+906. İnşaat işleri, özellikle iskeleler ve yerden yüksek çalışma platformların üstünde, altındaveya yakınında yapılan işler, kalıp yapımı ve sökümü, montaj ve kurma işleri, iskeledeçalışma ve yıkım işlerinde, çalışana çarpmasından ve darbelerden koruyan Kişisel KoruyucuDonanım aşağıdakilerden hangisidir? 
 a. İş Gözlüğü 
 b. Baret 
 c. İş eldiveni 
 d. Toz maskesi
 b
-907. Kuvvetli akım tesislerinde yapılacak bakım onarım çalışmaları sırasında çalışanlarınhayatının korunması açısından mutlaka alınması gereken 5 önlemden en son 
-yapılmasıgereken aşağıdakilerden hangisidir? 
+907. Kuvvetli akım tesislerinde yapılacak bakım onarım çalışmaları sırasında çalışanlarınhayatının korunması açısından mutlaka alınması gereken 5 önlemden en son yapılmasıgereken aşağıdakilerden hangisidir? 
 a. Kısa devre etme ve topraklama 
 b. Gerilimin her yönden kesilmesi 
 c. Çalışacak yerlerde gerilimin olmadığının kontrolü 
@@ -2581,8 +2458,7 @@ b. 2,5
 c. 3 
 d. 1,5
 d
-912. Yılda 6 mSv'den daha fazla etkin doza veya göz merceği, cilt, el ve ayaklar için yıllıkeşdeğer doz sınırlarının 3/10?undan daha fazla doza maruz kalma olasılığı bulunan 
-çalışmakoşulu 
+912. Yılda 6 mSv'den daha fazla etkin doza veya göz merceği, cilt, el ve ayaklar için yıllıkeşdeğer doz sınırlarının 3/10?undan daha fazla doza maruz kalma olasılığı bulunan çalışmakoşulu 
 a. Çalışma Koşulu C 
 b. Çalışma Koşulu D 
 c. Çalışma Koşulu A 
@@ -2624,8 +2500,7 @@ b. I,II,III
 c. Yalnız III 
 d. hepsi
 d
-919. M.S. 23 ile 79 yılları arasında yaşamış olan ve çalışma ortamındaki tehlikeli tozlara karşıçalışanların korunması amacıyla maske yerine geçmek üzere başlarına torba 
-geçirmeleriniöneren kişi aşağıda belirtilenlerden hangisidir? 
+919. M.S. 23 ile 79 yılları arasında yaşamış olan ve çalışma ortamındaki tehlikeli tozlara karşıçalışanların korunması amacıyla maske yerine geçmek üzere başlarına torba geçirmeleriniöneren kişi aşağıda belirtilenlerden hangisidir? 
 a. Owen 
 b. BerdardinoRamazzini 
 c. Plini 
@@ -2663,8 +2538,7 @@ d. Hipokrates
 d
 925. Aşağıdakilerden hangisi yanlıştır? 
 a. İSG kurulunun sekreteri iş güvenliği uzmanıdır. 
-b. İSG kurulları sanayiden sayılan devamlı olarak en az 50 işçi çalışan ve altı aydan 
-fazlasürekli işlerin yapıldığı işyerlerinde kurulur. 
+b. İSG kurulları sanayiden sayılan devamlı olarak en az 50 işçi çalışan ve altı aydan fazlasürekli işlerin yapıldığı işyerlerinde kurulur. 
 c. Kurul üyelerinin çoğunluğu ile toplanır. 
 d. İSG kurulları danışma organı niteliğindedir.
 c
@@ -2716,8 +2590,7 @@ b. Bakımsız makina
 c. Alet ve makineleri tehlikeli şekilde kullanma 
 d. Emniyetsiz yükleme, taşıma ve istifleme 
 b
-934. Bir işyerinin tesis ve tertiplerinde, çalışma yöntem ve şekillerinde, makinevecihazlarında işçilerin yaşamı için tehlikeli olan bir husus tespit edilirse, bu 
-tehlikegiderilinceye kadar işyerlerini iş sağlığı ve güvenliği bakımından tehlikenin niteliğine göre,işin tamamen veya kısmen durdurulması veya işyerinin kapatılması kararını verecek olankomisyona aşağıdaki görevlilerden hangisi girmez ? 
+934. Bir işyerinin tesis ve tertiplerinde, çalışma yöntem ve şekillerinde, makinevecihazlarında işçilerin yaşamı için tehlikeli olan bir husus tespit edilirse, bu tehlikegiderilinceye kadar işyerlerini iş sağlığı ve güvenliği bakımından tehlikenin niteliğine göre,işin tamamen veya kısmen durdurulması veya işyerinin kapatılması kararını verecek olankomisyona aşağıdaki görevlilerden hangisi girmez ? 
 a. Denetlemeye Yetkili Müfettiş 
 b. İşveren Temsilcisi 
 c. İşçi Temsilcisi 
@@ -2733,11 +2606,7 @@ c
 a. 4 
 b. 3 
 c. 1 
-d. 2 
-a. Ticaret Hukuku 
-b. 4857 sayılı İş Kanunu 
-c. Deniz İş Kanunu 
-d. Borçlar Kanunu 
+d. 2
 d
 938. Aşağıdaki iş mevzuatının hangisinde teknik önlemler yer almaz? 
 a. Gürültü Yönetmeliği 
@@ -2776,14 +2645,10 @@ c. İhmal
 d. Kasıt
 a
 945. Aşağıdakilerden hangisi yanlıştır? 
-a. İşveren adına hareket eden ve işin, iş yerinin ve işletmenin yönetiminde görev 
-alankimselere işveren vekili denir 
-b. Asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak, iş sözleşmesinden 
-veyaalt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden alt 
-işveren ilebirlikte sorumludur 
+a. İşveren adına hareket eden ve işin, iş yerinin ve işletmenin yönetiminde görev alankimselere işveren vekili denir 
+b. Asıl işveren, alt işverenin işçilerine karşı o işyeri ile ilgili olarak, iş sözleşmesinden veyaalt işverenin taraf olduğu toplu iş sözleşmesinden doğan yükümlülüklerinden alt işveren ilebirlikte sorumludur 
 c. İşveren vekilliği özel yükümlere dayanan özel bir statüdür 
-d. İşveren vekilinin işçilere karşı işlem ve yükümlülüklerinden doğrudan işveren 
-sorumludur
+d. İşveren vekilinin işçilere karşı işlem ve yükümlülüklerinden doğrudan işveren sorumludur
 c
 946. İşyerini kapatma hangi mevzuata göre yapılır? 
 a. Hukuki 
@@ -2791,8 +2656,7 @@ b. Mali
 c. Cezai 
 d. İdari
 d
-947. İşçinin iş sağlığı ve güvenliği yönünden çalışmasının sakıncalı olduğu işyerlerinde, 
-işindurdurulması yaptırımı nasıl bir yaptırımdır? 
+947. İşçinin iş sağlığı ve güvenliği yönünden çalışmasının sakıncalı olduğu işyerlerinde, işindurdurulması yaptırımı nasıl bir yaptırımdır? 
 a. Hukuki 
 b. Mali 
 c. Cezai 
@@ -2836,8 +2700,7 @@ d. İş kanunu
 d
 955. Aşağıdaki işlerden hangisi iş kanunu kapsamına girer? 
 a. 50 den fazla işçi çalıştırılan tarım ve orman işlerinin yapıldığı işyerleri veya işletmeleri 
-b. 507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin 
-çalıştığıiş yerleri 
+b. 507 sayılı esnaf ve sanatkarlar kanununun 2. Maddesinin tarifine uygun 3 kişinin çalıştığıiş yerleri 
 c. Deniz ve hava taşıma işleri 
 d. Ev hizmetleri
 a
@@ -2847,8 +2710,7 @@ b. Risklerle kaynağında mücadele edilmesi,
 c. Kişisel korunma önlemlerine öncelik verilmesi, 
 d. İşçilere uygun talimatların verilmesi
 c
-957. Hizmet akdi, bir mukaveledir ki onunla işçi, muayyen veya gayri muayyen bir zamandahizmet görmeği ve iş sahibi dahi ona bir ücret vermeği taahhüt eder?. Hükmünün 
-yer aldığıİşçi ile işveren arasında yapılan ?Hizmet akdi? ne ilişkin tanımın yer aldığı kanun aşağıdabelirtilenlerden hangisidir? 
+957. Hizmet akdi, bir mukaveledir ki onunla işçi, muayyen veya gayri muayyen bir zamandahizmet görmeği ve iş sahibi dahi ona bir ücret vermeği taahhüt eder?. Hükmünün yer aldığıİşçi ile işveren arasında yapılan ?Hizmet akdi? ne ilişkin tanımın yer aldığı kanun aşağıdabelirtilenlerden hangisidir? 
 a. Hiçbiri 
 b. Borçlar Kanunu 
 c. Umumi Hıfzıssıhha Kanunu 
@@ -2873,19 +2735,10 @@ c. Umumi Hıfzıssıhha Kanunu
 d. Borçlar Kanunu
 d
 961. Belediyeler ve diğer ilgili makamların işyeri denetimlerine ilişkin olarak aşağıdabelirtilenlerden hangisi yanlıştır? 
-a. İgili mevzuat gereğince işletme belgesi alınması gerekiyorsa, Çalışma ve Sosyal 
-GüvenlikBakanlığınca işletme belgesi verilmemiş işyerlerine belediyeler veya diğer ilgili 
-makamlarcaaçılma izni verilemez. 
-b. İşyerinin kurulup açılmasına izin vermeye yetkili belediyelerle diğer ilgili makamlar 
-heray bu hususta izin verdikleri, işveren ve işyerinin isim ve adresini ve yapılan işin 
-çeşidinigösterir listeleri bir sonraki ayın sonuna kadar o yerin bağlı bulunduğu bölge 
-müdürlüğünebildirirler. 
-c. Kamu kurum ve kuruluşları, işyerlerinde yapacakları iş sağlığı ve güvenliği ile ilgili 
-teftişve denetlemelerin sonuçlarını ve yapacakları işlemleri o yer için yetkili bölge 
-müdürlüğünebildirirler. 
-d. İşyerinin açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlar bu 
-iznivermeden önce, Çalışma ve Sosyal Güvenlik Bakanlığınca iş mevzuatına göre 
-verilmesigerekli işletme belgesinin varlığını araştırmak zorundadır.
+a. İgili mevzuat gereğince işletme belgesi alınması gerekiyorsa, Çalışma ve Sosyal GüvenlikBakanlığınca işletme belgesi verilmemiş işyerlerine belediyeler veya diğer ilgili makamlarcaaçılma izni verilemez. 
+b. İşyerinin kurulup açılmasına izin vermeye yetkili belediyelerle diğer ilgili makamlar heray bu hususta izin verdikleri, işveren ve işyerinin isim ve adresini ve yapılan işin çeşidinigösterir listeleri bir sonraki ayın sonuna kadar o yerin bağlı bulunduğu bölge müdürlüğünebildirirler. 
+c. Kamu kurum ve kuruluşları, işyerlerinde yapacakları iş sağlığı ve güvenliği ile ilgili teftişve denetlemelerin sonuçlarını ve yapacakları işlemleri o yer için yetkili bölge müdürlüğünebildirirler. 
+d. İşyerinin açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlar bu iznivermeden önce, Çalışma ve Sosyal Güvenlik Bakanlığınca iş mevzuatına göre verilmesigerekli işletme belgesinin varlığını araştırmak zorundadır.
 b
 962. Aşağıdakilerden hangisinde iş sağlı ve güvenliğiyle ilgili madde bulunmaz? 
 a. Anayasa 
@@ -2893,27 +2746,17 @@ b. Umumi hıfzısıhha kanunu
 c. Borçlar kanunu 
 d. İş kanunu
 a
-963. İşyerinin kurulup açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlarizin verdikleri işyerlerine ilişkin bilgileri ne kadar süre içerisinde ilgili bölge 
-müdürlüğünebildirmek zorundadırlar 
+963. İşyerinin kurulup açılmasına izin vermeye yetkili belediyeler ile diğer ilgili makamlarizin verdikleri işyerlerine ilişkin bilgileri ne kadar süre içerisinde ilgili bölge müdürlüğünebildirmek zorundadırlar 
 a. Bir sonraki ayın 10?una kadar 
 b. Bir sonraki ayın 5?ine kadar 
 c. Bir sonraki ayın sonuna kadar 
 d. Bir sonraki ayın 15?ine kadar 
-a. Hangi işlerin Ağır ve Tehlikeli İşlerden Sayılacağına ilişkin yönetmelik çıkartılacaktır. 
-b. İşverenler işyerinde alınan iş sağlığı ve güvenliği önlemlerine uyulup 
-uyulmadığınıdenetlemek zorundadır. 
-c. İşverenler işyerlerinde iş sağlığı ve güvenliğinin sağlanması için gerekli her türlü 
-önlemialmak, araç ve gereçleri noksansız bulundurmakla yükümlüdür 
-d. işçiler iş sağlığı ve güvenliği konusunda alınan her türlü önleme uymakla yükümlüdürler.
 d
 965. İşverenin işçilerinin işverenin verdiği işi yaparken başkalarına verdiği zarara ilişkinolarak aşağıda belirtilenlerden hangisi Borçlar Kanununa yanlıştır ? 
-a. İşçiler zarar verdiği için işçilerin maddi durumu da göz önünde bulundurularak 
-kimsesorumlu tutulmaz 
-b. İşveren böyle bir zararın olmaması gereken tüm dikkat ve özende bulunduğunu 
-ispatederse mesul olmaz. 
+a. İşçiler zarar verdiği için işçilerin maddi durumu da göz önünde bulundurularak kimsesorumlu tutulmaz 
+b. İşveren böyle bir zararın olmaması gereken tüm dikkat ve özende bulunduğunu ispatederse mesul olmaz. 
 c. İşverenin ödediği zararı, zarara neden olan işçisine karşı rücu hakkı vardır. 
-d. Başkalarını istihdam eden kimse, istihdam ettiği kimselerin hizmetlerini yerine 
-getirdiklerisırada yaptıkları zarardan sorumludur.
+d. Başkalarını istihdam eden kimse, istihdam ettiği kimselerin hizmetlerini yerine getirdiklerisırada yaptıkları zarardan sorumludur.
 a
 966. İşçi kovuşlarında antiseptik solüsyonlarla genel temizlik be ensektisik ve rodentisituygulanması en fazla ne kadar sürede periyodik olarak yapılmalıdır ? 
 a. Ayda 1 
@@ -2936,15 +2779,12 @@ b
 969. İşyeri hemşiresi veya sağlık memurunun görevlendirilmesi ile ilgili olarakaşağıdakilerden hangisi doğrudur? 
 a. Tüm işyerlerinde iş yeri hemşiresi bulunması zorunludur 
 b. 50 işçi çalışan işyerlerinde işyeri hemşiresi bulunması zorunludur 
-c. II. Risk grubunda 500 işçi çalışan iş yerinde tam gün çalışan en az bir iş yeri 
-hemşiresibulunmalıdır 
-d. IV.risk gurubunda 300 işçi çalışan iş yerinde tam gün çalışan en az 1 iş yeri 
-hemşiresibulunmalıdır
+c. II. Risk grubunda 500 işçi çalışan iş yerinde tam gün çalışan en az bir iş yeri hemşiresibulunmalıdır 
+d. IV.risk gurubunda 300 işçi çalışan iş yerinde tam gün çalışan en az 1 iş yeri hemşiresibulunmalıdır
 c
 970. Aşağıdakilerden hangisi yanlıştır? 
 a. iş sağlığı ve güvenliği kurulunun sekreterliğini iş güvenliği uzmanı yapar 
-b. Sağlık birimi, en az bir işyeri hekimi ile birlikte en az bir iş yeri hemşiresi veya 
-sağlıkmemurundan oluşur 
+b. Sağlık birimi, en az bir işyeri hekimi ile birlikte en az bir iş yeri hemşiresi veya sağlıkmemurundan oluşur 
 c. V.risk gurubunda 350 işçi çalışan bir iş yerinde tam gün bir iş yeri hemşiresi çalışmalıdır 
 d. Sağlık ve güvenlik işçisi,50 den fazla işçi çalıştıran yerlerde seçilmelidir
 d
@@ -2997,13 +2837,10 @@ c. İşveren Vekili
 d. İş güvenliği uzmanı
 b
 979. Aşağıdakilerden hangisi İSG Kurulunun görevlerinden değildir? 
-a. Tesislerde yapılacak bakım ve onarım çalışmalarında gerekli güvenlik tedbirleri 
-planlamakve bu tedbirlerin uygulanmalarını kontrol etmek 
+a. Tesislerde yapılacak bakım ve onarım çalışmalarında gerekli güvenlik tedbirleri planlamakve bu tedbirlerin uygulanmalarını kontrol etmek 
 b. İşveren kurulun verdiği kararları uygulamakla yükümlüdür. 
-c. 4857 sayımı İş Kanunun 83 maddesinde belirtilen taleplerin vukuunda acilen ve 
-kararvermek 
-d. İşyerinde yangınla,doğalafetlerle,sabotaj ve benzeri ile ilgili tedbirlerin yeterliliğini 
-veekiplerin çalışmalarını izlemek
+c. 4857 sayımı İş Kanunun 83 maddesinde belirtilen taleplerin vukuunda acilen ve kararvermek 
+d. İşyerinde yangınla,doğalafetlerle,sabotaj ve benzeri ile ilgili tedbirlerin yeterliliğini veekiplerin çalışmalarını izlemek
 d
 980. Aşağıda belirtilen İş Sağlığı Güvenliği Kurulu üyelerinden hangisi bu göreve seçimlegelir? 
 a. İşyeri Hekimi 
@@ -3051,6 +2888,7 @@ b
 a. Tespit bazlı reaktif 
 b. Uzman katkısı sağlanması 
 c. Çalışanların katılımı Koruma önleme anlayışı
+d. Kuralların önceden belirlenmesi
 a
 988. Tehlikeli Kimyasallarla Çalışmalara İlişkin Risk değerlendirmesinde aşağıdabelirtilenlerden hangisi dikkate alınmalıdır? 
 a. İmalatçı, ithalatçı veya satıcılardan sağlanacak malzeme güvenlik bilgi formu 
@@ -3059,11 +2897,9 @@ c. Hepsi
 d. Maruziyetin türü, düzeyi ve süresi,
 c
 989. Aşağıdakilerden hangisi riski tam olarak ifade eder? 
-a. Belirli bir tehlike karşısında kişinin şahsi varlıklarından bir kısmını veya 
-tamamınıkaybetme ihtimali 
+a. Belirli bir tehlike karşısında kişinin şahsi varlıklarından bir kısmını veya tamamınıkaybetme ihtimali 
 b. Kaybetme ihtimali 
-c. Tehlikelerden kaynaklanan bir olayın meydana gelebilme olasılığı ile zarar 
-vermederecesinin bir bileşkesidir. 
+c. Tehlikelerden kaynaklanan bir olayın meydana gelebilme olasılığı ile zarar vermederecesinin bir bileşkesidir. 
 d. Muhtemel kaybın miktarı
 c
 990. Olayların ortaya çıkmasından önce önlem alma faaliyeti aşağıdakilerden hangisidir? 
