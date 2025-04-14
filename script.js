@@ -1,6 +1,7 @@
 const questions = [];
 let currentQuestionIndex = 0;
 let viewedQuestionsCount = 1;
+let baseQuestionNumber = 1; // Global olarak tanımla
 let selectedFile = ""; // isg.txt veya isg2.txt olarak atanacak
 
 document.addEventListener("DOMContentLoaded", function () {
@@ -43,6 +44,12 @@ function loadQuestionsFromFile() {
     return;
   }
 
+  if (selectedFile === "isg2.txt") {
+    baseQuestionNumber = 501;
+  } else {
+    baseQuestionNumber = 1;
+  }
+
   const xhr = new XMLHttpRequest();
   xhr.open("GET", selectedFile, true);
   xhr.onreadystatechange = function () {
@@ -62,8 +69,6 @@ function processFileContent(fileContent) {
     const choices = (lines.slice(i + 1, i + 5) || []).map((choice) =>
       choice.trim()
     );
-
-    // Doğru cevap
     const correctAnswerString = lines[i + 5]?.trim().toUpperCase();
 
     if (
@@ -71,12 +76,17 @@ function processFileContent(fileContent) {
       choices.length === 4 &&
       correctAnswerString !== undefined
     ) {
+      // Soru numarasını ayıkla (örnek: "894. Soru metni")
+      const match = questionText.match(/^(\d+)\./);
+      const questionNumber = match ? parseInt(match[1], 10) : null;
+
       const correctAnswerIndex = choices.findIndex((choice) =>
         choice.toUpperCase().startsWith(correctAnswerString)
       );
 
       if (correctAnswerIndex !== -1) {
         questions.push({
+          number: questionNumber, // ← Burada numarayı ekledik
           question: questionText,
           choices: choices,
           correctAnswer: correctAnswerIndex,
@@ -253,22 +263,19 @@ function stopReading() {
   }
 }
 
-function shuffleQuestions(startIndex, endIndex) {
-  if (
-    isNaN(startIndex) ||
-    isNaN(endIndex) ||
-    startIndex < 0 ||
-    endIndex >= questions.length ||
-    startIndex > endIndex
-  ) {
-    alert("Geçerli bir aralık giriniz!");
+function shuffleQuestions(startNumber, endNumber) {
+  const startIndex = questions.findIndex(
+    (q) => Number(q.number) === startNumber
+  );
+  const endIndex = questions.findIndex((q) => Number(q.number) === endNumber);
+
+  if (startIndex === -1 || endIndex === -1 || startIndex > endIndex) {
+    alert("Geçerli bir soru numarası aralığı giriniz!");
     return;
   }
 
-  // Belirtilen aralıktaki soruları alın
   const rangeQuestions = questions.slice(startIndex, endIndex + 1);
 
-  // Soruları karıştır
   for (let i = rangeQuestions.length - 1; i > 0; i--) {
     const j = Math.floor(Math.random() * (i + 1));
     [rangeQuestions[i], rangeQuestions[j]] = [
@@ -277,13 +284,12 @@ function shuffleQuestions(startIndex, endIndex) {
     ];
   }
 
-  // Karışık soruları global `questions` dizisine aktar
   questions.splice(startIndex, rangeQuestions.length, ...rangeQuestions);
 
-  // İlk soruya geçiş yap ve göster
   currentQuestionIndex = startIndex;
   displayQuestion();
 }
+
 function toggleSettings() {
   const panel = document.getElementById("settingsPanel");
   panel.style.display =
@@ -296,8 +302,24 @@ function handleShuffle() {
   const startInput = document.getElementById("shuffleStart");
   const endInput = document.getElementById("shuffleEnd");
 
-  const startIndex = parseInt(startInput.value, 10) - 1;
-  const endIndex = parseInt(endInput.value, 10) - 1;
+  const startNumber = parseInt(startInput.value, 10);
+  const endNumber = parseInt(endInput.value, 10);
+
+  if (isNaN(startNumber)) {
+    alert("Başlangıç sorusu geçerli değil!");
+    return;
+  }
+
+  // Soruların indekslerini numaraya göre bul
+  const startIndex = questions.findIndex(
+    (q) => Number(q.number) === startNumber
+  );
+  const endIndex = questions.findIndex((q) => Number(q.number) === endNumber);
+
+  if (startIndex === -1 || endIndex === -1 || startIndex > endIndex) {
+    alert("Geçerli bir soru numarası aralığı giriniz!");
+    return;
+  }
 
   shuffleQuestions(startIndex, endIndex);
 }
@@ -332,20 +354,18 @@ function previousQuestion() {
 
 function goToQuestionByNumber() {
   const questionNumberInput = document.getElementById("questionNumber");
-  const targetQuestionIndex = parseInt(questionNumberInput.value, 10) - 1;
+  const userInput = parseInt(questionNumberInput.value, 10);
 
-  if (
-    !isNaN(targetQuestionIndex) &&
-    targetQuestionIndex >= 0 &&
-    targetQuestionIndex < questions.length
-  ) {
-    currentQuestionIndex = targetQuestionIndex;
+  const foundIndex = questions.findIndex((q) => q.number === userInput);
+
+  if (foundIndex !== -1) {
+    currentQuestionIndex = foundIndex;
     displayQuestion();
     document
       .querySelectorAll(".choice")
       .forEach((button) => button.classList.remove("correct", "incorrect"));
   } else {
-    console.error("Hata: Geçersiz soru numarası.");
+    alert("Geçersiz soru numarası!");
   }
 }
 
