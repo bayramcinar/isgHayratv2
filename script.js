@@ -1,6 +1,28 @@
 const questions = [];
 let currentQuestionIndex = 0;
 let viewedQuestionsCount = 1;
+let selectedFile = ""; // isg.txt veya isg2.txt olarak atanacak
+
+document.addEventListener("DOMContentLoaded", function () {
+  let choice = prompt(
+    "Hangi veri dosyası yüklensin? (1 = İSG 1, 2 = İSG 2)",
+    "1"
+  );
+
+  if (choice === "1") {
+    selectedFile = "isg.txt";
+  } else if (choice === "2") {
+    selectedFile = "isg2.txt";
+  } else {
+    alert("Geçersiz seçim yapıldı. Varsayılan olarak İSG 2 yüklenecek.");
+    selectedFile = "isg2.txt";
+  }
+
+  loadQuestionsFromFile(); // Soru yükleme burada çağrılacak
+  document.getElementById(
+    "viewedQuestionsCount"
+  ).textContent = `Bakılan soru sayısı: ${viewedQuestionsCount}`;
+});
 
 document.addEventListener("DOMContentLoaded", function () {
   document.getElementById(
@@ -16,10 +38,13 @@ function updateViewedQuestionsCount() {
 }
 
 function loadQuestionsFromFile() {
-  const filePath = "isg.txt";
+  if (!selectedFile) {
+    console.error("Dosya seçilmedi!");
+    return;
+  }
 
   const xhr = new XMLHttpRequest();
-  xhr.open("GET", filePath, true);
+  xhr.open("GET", selectedFile, true);
   xhr.onreadystatechange = function () {
     if (xhr.readyState == 4 && xhr.status == 200) {
       processFileContent(xhr.responseText);
